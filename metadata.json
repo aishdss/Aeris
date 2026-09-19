@@ -1,0 +1,6 @@
+{
+  "name": "AERIS",
+  "description": "AI-powered disaster-response drone simulation featuring live multi-drone telemetry, thermal & computer vision triage, missing person facial matching, calamity escalation forecasting, and real-time audio first-aid dispatch.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
